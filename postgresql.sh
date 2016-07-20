@@ -40,12 +40,5 @@ done
 }
 
 loop "$PWD/HW7_c5dothih"
-#psql $dbname $username <<EOF
-#\i movies_db.sql
-#\i movies_data.sql
-#\i h7.sql
-#\i testcases.sql
-#\i postgresql.sql
-#EOF
 
 
